@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-I am a software engineer at Avanade Belgium
+* :computer: Software Engineer at Avanade Belgium
 <!--
 **Bovfir/bovfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
