@@ -1,5 +1,10 @@
 ## Hi there 👋
-* :computer: Software Engineer at Avanade Belgium
+
+* :computer: I'm working as a Software Engineer for [Avanade](https://github.com/avanade) Belgium. 
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Bovfir)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-guillaume/)
+
 <!--
 **Bovfir/bovfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
