@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-guillaume/)
 
 
-## ⚡Certification
+## ⚡Certifications
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Bamcko-6721/697A6F7DDE446A4F?sharingId=8987DB1728EEFF2C">
 <img src="./assets/az900.png" width="150" height="150" alt="App Icon">
