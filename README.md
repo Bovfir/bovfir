@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* :computer: I'm working as a Software Engineer for [Avanade](https://github.com/avanade) Belgium. 
+* :computer: I'm working as an Analyst, Full-Stack Developer for [Avanade](https://github.com/avanade) Belgium. 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Bovfir)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-guillaume/)
