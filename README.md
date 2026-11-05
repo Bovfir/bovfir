@@ -18,6 +18,8 @@
 <img src="./assets/gh200.png" width="150" height="150" alt="App Icon"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Bamcko-6721/904C9584EB4504B0?sharingId=8987DB1728EEFF2C]">
 <img src="./assets/gh300.png" width="150" height="150" alt="App Icon"></a>
+<a href="https://www.credly.com/badges/32ec9606-c552-452e-b77a-684247e796f2">
+<img src="./assets/GHCopilotProBadge.png" width="150" height="150" alt="App Icon"></a>
 
 <!--
 **Bovfir/bovfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
