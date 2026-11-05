@@ -20,6 +20,8 @@
 <img src="./assets/gh300.png" width="150" height="150" alt="App Icon"></a>
 <a href="https://www.credly.com/badges/32ec9606-c552-452e-b77a-684247e796f2">
 <img src="./assets/GHCopilotProBadge.png" width="150" height="150" alt="App Icon"></a>
+<a href="https://www.credly.com/badges/79b79d94-789a-460e-a1c0-8cce1501a2a3">
+<img src="./assets/DeployingScalingAIDelivery.png" width="150" height="150" alt="App Icon"></a>
 
 <!--
 **Bovfir/bovfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
